@@ -1,5 +1,2 @@
 # GDSC
-aaaaaaaa
-bbbb
-ccccc
-dddddddddd
+kkk
