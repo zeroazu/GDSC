@@ -1,2 +1,2 @@
 # GDSC
-哭咪
+amanks
